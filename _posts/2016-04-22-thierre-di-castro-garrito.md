@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thierre Di Castro Garrito
-datePublished: '2016-04-22T08:11:37.003Z'
-dateModified: '2016-04-22T08:10:39.645Z'
+datePublished: '2016-04-22T08:21:15.966Z'
+dateModified: '2016-04-22T08:11:41.165Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-thierre-di-castro-garrito.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-22-thierre-di-castro-garrito.md
-published: true
 url: thierre-di-castro-garrito/index.html
 _type: Article
 
