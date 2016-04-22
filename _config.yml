@@ -1,7 +1,7 @@
-name: Flying Macaw Films
+name: 'Flying Macaw Films, Inc.'
 favicon: null
-layout_spectrum: 0.39609487308189273
-typography_spectrum: 0.6730319452472031
+layout_spectrum: 1
+typography_spectrum: 1
 title: Flying Macaw Films
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6489205374382436
-  lightness: 0.041881626937538385
-  saturation: 0.09674372943118215
-  rhythmicContrast: 0.24675355479121208
+  brandStrength: 0.8125
+  lightness: 0.125
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
