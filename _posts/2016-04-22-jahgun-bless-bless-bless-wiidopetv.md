@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Wiidope Wiiknow
-    url: 'https://www.youtube.com/user/WiiDopeMusic'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - jahgun
   - duration
@@ -21,7 +16,13 @@ keywords:
   - kofi
   - bless
 description: 'Artist: Jahgun Song: Bless Bless Bless Director: Thierre Di Castro Garrito Produced by Flying Macaw Films, Inc. Music Production: Benjamin Hamlin Audio Engineering: Kofi Owusu-Ofori/ wiidope Copyright © 2015. All rights reserved. Special Thanks to Todd Sapre and Andrew Mcdonald at Kilt Studios. kiltstudios.com'
-inLanguage: en
+datePublished: '2016-04-22T08:45:42.369Z'
+dateModified: '2016-04-22T08:39:43.686Z'
+author:
+  - name: Wiidope Wiiknow
+    url: 'https://www.youtube.com/user/WiiDopeMusic'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Rlsdy7yFZPk&feature=applinks'
     type: ios
@@ -59,15 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Rlsdy7yFZPk'
 title: 'Jahgun - Bless Bless Bless [ wiidopeTV ]'
-datePublished: '2016-04-22T08:32:32.457Z'
-dateModified: '2016-04-22T08:32:05.010Z'
 sourcePath: _posts/2016-04-22-jahgun-bless-bless-bless-wiidopetv.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: jahgun-bless-bless-bless-wiidopetv/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
