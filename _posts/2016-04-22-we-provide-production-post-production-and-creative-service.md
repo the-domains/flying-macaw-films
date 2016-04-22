@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'We provide production, post-production, and creative services to corporate clients and independent filmmakers.'
-datePublished: '2016-04-22T08:44:22.168Z'
-dateModified: '2016-04-22T08:40:25.311Z'
+description: ''
+datePublished: '2016-04-22T08:44:57.318Z'
+dateModified: '2016-04-22T08:44:47.029Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-we-provide-production-post-production-and-creative-service.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5527398-8784-4373-880a-499ece227b0b.jpg)
 
-We provide production, post-production, and creative services to corporate clients and independent filmmakers.
+* We provide production, post-production, and creative services to corporate clients and independent filmmakers.
