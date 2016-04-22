@@ -15,11 +15,11 @@ keywords:
   - dabudz
   - kofi
   - bless
-description: 'Artist: Jahgun Song: Bless Bless Bless Director: Thierre Di Castro Garrito Produced by Flying Macaw Films, Inc. Music Production: Benjamin Hamlin Audio Engineering: Kofi Owusu-Ofori/ wiidope Copyright © 2015. All rights reserved. Special Thanks to Todd Sapre and Andrew Mcdonald at Kilt Studios. kiltstudios.com'
-datePublished: '2016-04-22T08:45:42.369Z'
-dateModified: '2016-04-22T08:39:43.686Z'
+description: 'Artist: Jahgun Song: Bless Bless Bless - Director: Thierre Di Castro Garrito - Produced by Flying Macaw Films, Inc. - Music Production: Benjamin Hamlin - Audio Engineering: Kofi Owusu-Ofori - Copyright © 2016. Flying Macaw Films, Inc. All rights reserved. Special Thanks to Todd Sapre and Andrew Mcdonald at Kilt Studios. kiltstudios.com'
+datePublished: '2016-04-22T08:55:09.860Z'
+dateModified: '2016-04-22T08:53:37.612Z'
 author:
-  - name: Wiidope Wiiknow
+  - name: 'Flying Macaw Films, Inc.'
     url: 'https://www.youtube.com/user/WiiDopeMusic'
     avatar: {}
 related: []
