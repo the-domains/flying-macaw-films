@@ -1,24 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://flyingmacawfilms.com'
-  name: 'flying macaw films, inc.'
-  favicon: 'http://flyingmacawfilms.com/favicon.ico'
-  domain: flyingmacawfilms.com
-keywords: []
-description: 'Copyright © 2016. Flying Macaw Films, Inc. All rights reserved.'
-app_links: []
-isBasedOnUrl: 'http://flyingmacawfilms.com/index.html'
-title: 'flying macaw films, inc.'
-datePublished: '2016-04-24T08:22:01.804Z'
-dateModified: '2016-04-22T08:05:14.569Z'
-starred: false
-sourcePath: _posts/2016-04-24-flying-macaw-films-inc.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://flyingmacawfilms.com/index.html'
+inLanguage: null
+keywords: []
+description: 'Copyright © 2016. Flying Macaw Films, Inc. All rights reserved.'
+datePublished: '2016-04-24T08:26:21.101Z'
+dateModified: '2016-04-24T08:22:11.700Z'
+author: []
+related: []
+app_links: []
+title: 'flying macaw films, inc.'
+sourcePath: _posts/2016-04-24-flying-macaw-films-inc.md
+published: true
+authors: []
+publisher:
+  name: 'flying macaw films, inc.'
+  domain: flyingmacawfilms.com
+  url: 'http://flyingmacawfilms.com'
+  favicon: 'http://flyingmacawfilms.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
